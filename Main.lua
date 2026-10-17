@@ -18,7 +18,7 @@ local VALID_KEYS = {                                      -- daftar key yang ber
 -- Dengan ini Anda bisa ganti key tanpa mengubah script. Kosongkan ("") jika tidak dipakai.
 local KEY_LIST_URL = ""
 
-local KEY_DURATION = 12 * 60 * 60                         -- masa berlaku key (12 jam, dalam detik)
+local KEY_DURATION = 72 * 60 * 60                         -- masa berlaku key (12 jam, dalam detik)
 local SAVE_FILE = "MasensDevHub_Key.json"                 -- file penyimpanan key di perangkat pemain
 -- ==========================================
 
